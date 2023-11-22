@@ -11,4 +11,4 @@ function printManyTimes(str) {
     }
   
   }
-  printManyTimes("freeCodeCamp");
+  printManyTimes("Alexa Devs");
